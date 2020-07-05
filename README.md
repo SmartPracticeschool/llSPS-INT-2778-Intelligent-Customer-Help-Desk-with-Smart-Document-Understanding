@@ -30,5 +30,6 @@ The application of this ADCET Smart Student Care Chatbot is
 The future scope of the project is:
 It can be scaled to answer other operational doubts by the college students about the infrastructure, exam and form filling queries
 # Video Demonstration
+https://youtu.be/avPj8XOAnYE
 # Internship Feedback
 https://youtu.be/SEKHL4sJRGY
